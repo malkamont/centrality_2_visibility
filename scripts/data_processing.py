@@ -11,7 +11,7 @@ sys.path.append(path)
 from scipy.spatial.distance import pdist, squareform
 import graph_tool.all as gt
 import matplotlib as mpl
-from filtFunc import *
+from backbone_function import *
 import igraph as ig
 import pandas as pd
 import numpy as np
