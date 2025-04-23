@@ -210,7 +210,9 @@ saveRDS(m, "f_mall.rds")
 ##########################
 
 #reshape
-ms = read.table("mstrat.csv", header = TRUE, sep = ";")
+ms = rbind(
+    read.table("mstrat0.csv", header = TRUE, sep = ";"),
+    read.table("mstrat1.csv", header = TRUE, sep = ";"))
 dt = merge(x = dt, y = ms, by = c("actor", "period"), sort = FALSE)
 dt$mstrat = factor(dt$mstrat)
 dat = dt
