@@ -1,0 +1,6 @@
+#logs etc.
+*.log
+*.bak
+*.swp
+*.tmp
+*~
