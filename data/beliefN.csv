@@ -1,0 +1,33 @@
+code;label;name
+A0101;ccoccu;CC is currently occurring
+A0102;cchuma;Human activities are an important driver of current CC
+A0107;ccscie;CC science is still too uncertain to be a basis for policy
+A0110;ifcost;GHG emissions must be reduced even if it is costly in economic terms
+A0111;natcmp;National competitiveness is more important than tackling CC
+A0112;devcou;Developed countries should bear the main responsibility in GHG reductions
+A0113;techdv;Technological development will solve the problem of CC
+A0121;compiq;Government should compensate for effects of climate policies (including gasoline taxes) so that inequality does not rise
+A0122;vyouth;Voice of youth should be heard more in climate policy because they bear the brunt of the adverse effects
+A0123;devres;Developed countries should bear the main responsibility in GHG emission reductions
+G0101;volact;Voluntary action by businesses makes a sensible contribution to tackling the challenges of CC
+G0103;selfco;Self-commitment of individual states to reduce GHG emissions makes a sensible contribution to tackling the challenges of CC
+G0104;nuclea;Expansion of nuclear energy makes a sensible contribution to tackling the challenges of CC
+G0107;crbcap;Use of CCS technology makes a sensible contribution to tackling the challenges of CC
+G0108;refore;Reforestation and avoided deforestation strategies make a sensible contribution to tackling the challenges of CC
+G0110;privac;Private action to minimize the individual ecological footprint makes a sensible contribution to tackling the challenges of CC
+G0113;crbtax;Carbon tax makes a sensible contribution to tackling the challenges of CC
+G0116;clilaw;National climate law requiring GHG reductions makes a sensible contribution to tackling the challenges of CC
+G0117;cleatc;Developing cleantech business solutions makes a sensible contribution to tackling the challenges of CC
+G0119;enrgef;Increasing energy effiency makes a sensible contribution to tackling the challenges of CC
+G0125;declog;Decreasing logging in my country in order to secure carbon sinks makes a sensible contribution to tackling the challenges of CC
+G0126;nopeat;Getting rid of peat as a source of energy more quickly than current targets specify makes a sensible contribution to tackling the challenges of CC
+G0127;biofls;Significant increase in the use of biofuels excluding peat makes a sensible contribution to tackling the challenges of CC
+G0401;leader;My country should take a leading international role in GHG reduction
+G0402;tmeffo;My government puts too much effort into reducing GHG emissions
+G0404;jbgrwh;GHG reduction creates jobs and opportunities for economic growth
+G0405;secene;Securing the national energy supply is more important than reducing GHG emissions
+G0407;recost;Transition to renewable energy supply is too costly
+G0408;reexcl;Energy supply can be secured exclusively by renewable energies in the long term
+G0410;reecon;Economy benefits from the transition to renewable energies in the long term
+H0105;legbin;Binding targets for the reduction of GHG emissions per capita that include all states should be introduced
+H0107;gbemtd;A global emissions trading system should be introduced
