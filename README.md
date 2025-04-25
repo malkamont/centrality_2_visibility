@@ -13,3 +13,5 @@
 5. Run **model_fit.R** in the _meccess_ environment to fit the Bayesian regression models. Access to a high-performance computing cluster speeds up the process.
 
 6. Run **model_summary.R** in the _meccess_ environment to summarise and illustrate the results.
+
+![](cover.svg)
