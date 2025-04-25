@@ -1,6 +1,6 @@
 # centrality_2_visibility
 
-**_"Beyond Formal Power: How Central Roles in Political Networks are Related to Media Visibility"_**
+**_Beyond Formal Power: How Central Roles in Political Networks are Related to Media Visibility_**
 
 1. Run **extract_visibility.R** [scripts] to retrieve the media appearance counts of organisations from a dna object. NOTE: due to data protection, we provide only hard copies of these counts.
 
